@@ -1,0 +1,24 @@
+#root {
+  background-color: rgba(225, 223, 221, 0.2);
+}
+
+.ms-Nav {
+  background-color: white;
+}
+
+.ms-Grid-col {
+   padding-left: 0;
+   margin-left: 0;
+ }
+
+.gallery-nav {
+  padding-top: 20vh;
+  margin-left: 0;
+}
+
+
+
+/*.form-date {*/
+/*    padding: 50vh;*/
+/*    margin-left: 0;*/
+/*}*/
